@@ -1,5 +1,5 @@
 # 🚲 Case Study: Public Perception of E-Bikes (2022)
-
+![E-Bike Info](e-bike-info.jpg)
 ## 📌 Project Overview
 In **May 2022**, e-bikes were at the center of public discussion in India.  
 A surge of accident reports was making headlines, creating **fear and skepticism** among potential users.  
@@ -8,7 +8,8 @@ To capture public sentiment at that moment, I conducted a **primary survey-based
 This project is not about today’s trends but serves as a **time capsule of perceptions in 2022**.  
 ## 📰 News Headlines (2022)
 The study was motivated by heavy media coverage of e-bike accidents:
-![E-Bike Headlines]
+![E-Bike Headlines](images-headlines.jpg)
+
 ---
 
 ## 🛠 What I Did
@@ -34,9 +35,15 @@ The study was motivated by heavy media coverage of e-bike accidents:
 
 ## 📂 Files in this Repository
 - `e-bike-analysis.ipynb` → Jupyter/Colab notebook with charts & chi-square test  
-- `final-report.pdf` *(optional, academic report with watermark)*  
-- `README.md` → Project documentation  
+ - `README.md` → Project documentation  
 
+Here are sample pages from the survey:
+
+![Survey Page 1](e-bike-survey-pic-1.jpg)  
+![Survey Page 2](e-bike-survey-pic-2.jpg)  
+![Survey Page 3](e-bike-survey-pic-3.jpg)  
+![Survey Page 4](e-bike-survey-pic-4.png)  
+![Survey Page 5](e-bike-survey-pic-5.jpg)  
 ---
 
 ## 🎯 Skills Demonstrated

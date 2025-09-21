@@ -53,6 +53,19 @@ Here are sample pages from the survey:
 - **Research Report Writing** (structured insights & conclusion)  
 
 ---
+## 🔥 Real-World Context (2022 E-Bike Fire Incidents)
+
+This research was conducted in **May 2022**, a period when multiple **e-bike fire accidents** were making national headlines in India.  
+These incidents shaped public perception and created the urgency to study how people viewed e-bike safety and adoption.
+
+Some major events around that time include:
+
+- **April 2022 (Nashik):** Around **40 electric scooters** caught fire while being transported (Jitendra EV case).  
+- **July 2022 (Pune):** A fire gutted **seven e-bikes** in a showroom, suspected due to battery overheating.  
+- **September 2022 (Secunderabad, Hyderabad):** A tragic **showroom fire killed 8 people**, with faulty battery modules suspected as the cause.  
+
+⚡ These incidents directly influenced public opinion, explaining why **awareness was high** but **future adoption intent remained low** in the survey findings.
+
 
 ## ⚠️ Disclaimer
 - This study was conducted in **May 2022** as part of an **academic research project**.  
